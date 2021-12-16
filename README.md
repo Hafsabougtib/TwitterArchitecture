@@ -30,6 +30,7 @@
         the search query will be posted to the "end point" and will be used to search (no entity needed)
         interface => ... functions
         controller 
+   - Social Graph : TODO(fakhri): add what is needed
         
    -User time line : 
        here we display the last 20 tweets of the user ( we need user id for that ) 
