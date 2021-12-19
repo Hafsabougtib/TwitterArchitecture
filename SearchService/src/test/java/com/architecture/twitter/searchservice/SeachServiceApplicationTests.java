@@ -1,4 +1,4 @@
-package com.architecture.twitter.seachservice;
+package com.architecture.twitter.searchservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
